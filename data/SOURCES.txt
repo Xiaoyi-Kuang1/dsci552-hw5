@@ -1,0 +1,4 @@
+Acute Inflammations: Jacek Czerniak (2003), UCI Machine Learning Repository. https://doi.org/10.24432/C5V59S
+Communities and Crime: Michael Redmond (2002), UCI Machine Learning Repository. https://doi.org/10.24432/C53W3X
+License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Original data and description files are unchanged.
